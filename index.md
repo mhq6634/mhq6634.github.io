@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## PROFILE
+![https://media-exp1.licdn.com/dms/image/C5103AQFuqsm5sW3DbA/profile-displayphoto-shrink_400_400/0/1566024733178?e=1620259200&v=beta&t=_DsM2iCeVYHWIy5NZmpF2HcyKuB_tKdEZ1jo8pf7Vhw]
+Hi, I'm Huiqi, a PhD student in National University of Singapore interested in computer vision research. 
 
-You can use the [editor on GitHub](https://github.com/mhq6634/mhq6634.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## EXPERIENCE
+### Education
+2012 - 2016, Nanyang Technological University, Bachelor's Degree in Computer Science
+2019 - Now, National University of Singapore, PhD Candidate in Computer Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## INTERESTS
+In my free time, I enjoy dancing, traveling and reading.
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mhq6634/mhq6634.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

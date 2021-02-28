@@ -1,5 +1,5 @@
 ## PROFILE
-![https://media-exp1.licdn.com/dms/image/C5103AQFuqsm5sW3DbA/profile-displayphoto-shrink_400_400/0/1566024733178?e=1620259200&v=beta&t=_DsM2iCeVYHWIy5NZmpF2HcyKuB_tKdEZ1jo8pf7Vhw]
+![Image](https://media-exp1.licdn.com/dms/image/C5103AQFuqsm5sW3DbA/profile-displayphoto-shrink_400_400/0/1566024733178?e=1620259200&v=beta&t=_DsM2iCeVYHWIy5NZmpF2HcyKuB_tKdEZ1jo8pf7Vhw)
 Hi, I'm Huiqi, a PhD student in National University of Singapore interested in computer vision research. 
 
 ## EXPERIENCE

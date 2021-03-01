@@ -1,6 +1,4 @@
 ## Profile
-<img src="http://drive.google.com/uc?export=view&id=1EONT2VYW3redQgOXzUYQohn81V7qBRu4" width="100"/>
-
 Hi, I'm Huiqi, a PhD student in National University of Singapore interested in computer vision research. 
 
 ## Experience

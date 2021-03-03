@@ -11,6 +11,7 @@ Hi, I'm Huiqi, a second-year PhD student at National University of Singapore, su
 ### Education
 - 2012 - 2016, Nanyang Technological University, Bachelor's Degree in Computer Science
 - 2019 - Now, National University of Singapore, PhD Candidate in Computer Science
+
 ### Work
 - 2016 - 2019, Technology Application Developer @ J.P. Morgan, Singapore 
 - 2019 - 2020, Data Scientist @ Shopee, Singapore
